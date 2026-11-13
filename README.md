@@ -318,7 +318,7 @@ $$
 subject to:
 
 $$
-\operatorname{Latency}_{99}(\pi) \leq B
+\text{Latency}_{99}(\pi) \leq B
 $$
 
 where:
